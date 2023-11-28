@@ -1,0 +1,14 @@
+@font-face {
+  font-family: AlimamaDaoLiTi;
+  src: url("../../public/fonts/AlimamaDaoLiTi/AlimamaDaoLiTi.ttf")
+      format("truetype"),
+    url("../../public/fonts/AlimamaDaoLiTi/AlimamaDaoLiTi.woff2")
+      format("woff2"),
+    url("../../public/fonts/AlimamaDaoLiTi/AlimamaDaoLiTi.woff") format("woff");
+}
+
+body {
+  font-family: AlimamaDaoLiTi, "Microsoft YaHei", sans-serif;
+  font-size: 36px;
+  background: no-repeat center url("../../public/images/ag-grid.png");
+}
